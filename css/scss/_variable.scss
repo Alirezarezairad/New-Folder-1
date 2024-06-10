@@ -1,0 +1,17 @@
+$textcolor: #250029c8;
+$fontsize: 130px;
+$fontstyle: italic;
+$fontweight: bold;
+$bgcolor: #efefef;
+$myColor: #250029c8;
+$myheight: 100vh;
+$primary-color: #370029;
+$secondary-color: #fff;
+$font-family-sans: "Poppins", sans-serif;
+$font-family-cursive: "Kaushan Script", cursive;
+$global-margin: 0;
+$global-padding: 0;
+@mixin centerEveryThing {
+  display: flex;
+  align-items: center;
+}
